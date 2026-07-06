@@ -8,7 +8,7 @@
 <p>gosto duvidoso pra bugs, playlists e cafés</p>
 <br/>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img height="140" src="https://github-readme-stats-fast.vercel.app/api?username=sunrhse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=sunrhse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="auto" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sunrhse&layout=compact&theme=dracula&card_width=350" />
 </div>
 <br/>
