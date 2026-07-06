@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=46&duration=1&color=D1A2A9&center=true&repeat=false&width=540&height=86&lines=Isaura+de+Lourdes" alt="Typing SVG" /></a>
 </div>
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Notable&size=34&duration=1&color=FFFFFF&repeat=false&width=540&height=86&lines=DEV+FRONTEND" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=1&color=D1A2A9&repeat=false&width=540&height=86&lines=DEV+FRONTEND" alt="Typing SVG" /></a>
 <p>amante de figma, sobrevivente do código e obsessiva por detalhes</p>
 <p>gosto duvidoso pra bugs, playlists e cafés</p>
 <br/>
