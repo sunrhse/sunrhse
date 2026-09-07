@@ -17,10 +17,10 @@
 <p>techs que eu uso </p>
 <p>meu pequeno arsenal pra criar coisas bonitas (e às vezes quebrar tudo)</p>
 <div align="center">
-  <img width="187,5" height="60" alt="ChatGPT Image 15 de jul  de 2026, 13_14_53" src="https://github.com/user-attachments/assets/ef8eb8db-a362-471f-846b-14c29e869c13" />
-  <img width="187,5" height="60" alt="ChatGPT Image 15 de jul  de 2026, 13_14_47" src="https://github.com/user-attachments/assets/62578648-776c-42e9-a663-2f3470f7cbdf" />
-  <img width="187,5" height="60" alt="ChatGPT Image 15 de jul  de 2026, 13_15_01" src="https://github.com/user-attachments/assets/996ba942-7555-43a2-864c-1e13dcb5ee99" />
-  <img width="187,5" height="60" alt="ChatGPT Image 15 de jul  de 2026, 13_15_07" src="https://github.com/user-attachments/assets/d90b818a-8017-477c-b722-b3cdfa7be65d" />
+  <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=0A0D12&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=0A0D12&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=CSS3&logo=css&label=&color=0A0D12&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=0A0D12&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo"  />
 </div>
 <br/>
 <div align="right">
@@ -28,9 +28,8 @@
 <p>a internet não é tão grande assim</p>
 </div>
 <div align="center">
-   <a href="https://www.linkedin.com/in/isaura-de-lourdes-0561742aa/" target="_blank"><img width="250" height="60" alt="ChatGPT Image 15 de jul  de 2026, 12_52_40" src="https://github.com/user-attachments/assets/d8963e93-e54e-4a1b-9ce6-4deaa70f65b8" /></a>
-  <a href="https://www.instagram.com/sunrhse/" target="_blank"><img width="250" height="60" alt="ChatGPT Image 15 de jul  de 2026, 12_52_47" src="https://github.com/user-attachments/assets/95a7f810-9779-4f79-928e-ed63caa55e47" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=isauralourdes23@gmail.com" target="_blank"><img width="250" height="60" alt="ChatGPT Image 15 de jul  de 2026, 12_56_50" src="https://github.com/user-attachments/assets/09c0f6a6-658a-4e89-a6ae-b1146e378724" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=isauralourdes23@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0A0D12&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/isaura-de-lourdes-0561742aa/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A0D12&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo"  /></a>
 </div>
 <br/>
 <img width="100%" height="294" alt="download" src="https://github.com/user-attachments/assets/7ad63a3a-9f52-40f2-9020-a24230e8f535" />
